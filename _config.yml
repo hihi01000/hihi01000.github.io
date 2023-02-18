@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "01000"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "01000 블로그"
+name                     : "01000 blog"
 description              : "An amazing website."
 url                      : "https://hihi01000.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

@@ -24,5 +24,11 @@ gpt에 접속합니다.
 
 화음은 [ ]로 묶으며, 피아노 건반의 키로 연주 할 수 있습니다. 빈칸은 쉼표입니다. 이러한 규칙을 gpt에게 알려주었습니다. 그리고 코드를 생성해 달라고 하였습니다.
 
+![gpt5](../images/2023-02-19-Making music with gpt/gpt5.jpg)
+
+
+
+![gpt6](../images/2023-02-19-Making music with gpt/gpt6.jpg)
+
 
 

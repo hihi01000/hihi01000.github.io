@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "정영천 홈페이지"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "정영천의 블로그입니다."
+  location         : "South Korea"
+  email            : "hihi01000@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
